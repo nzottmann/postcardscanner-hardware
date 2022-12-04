@@ -8,3 +8,5 @@ License: CC-BY-SA-4.0
 - KiCAD files for custom PCB
 - Pictures
 
+![scanner](pictures/scanner_17.jpg)
+![parts](pictures/scanner_01.jpg)
